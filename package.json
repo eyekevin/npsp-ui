@@ -1,0 +1,19 @@
+{
+  "name": "npsp-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npsp_ui_docs.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hijin/npsp-ui.git"
+  },
+  "author": "陈南进",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hijin/npsp-ui/issues"
+  },
+  "homepage": "https://github.com/Hijin/npsp-ui#readme"
+}
